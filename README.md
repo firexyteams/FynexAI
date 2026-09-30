@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo veya Görsel -->
-  <img src="https://raw.githubusercontent.com/firexyleams/FynexAI/main/assets/logo.png" alt="FynexAI Logo" width="120" height="120" />
+<img width="2000" height="2000" alt="anapng" src="https://github.com/user-attachments/assets/bcc51155-c68b-469a-98af-bea7780a8226" />
 
   # 🤖 FynexAI
 
@@ -51,3 +51,8 @@ git clone [https://github.com/firexyleams/FynexAI.git](https://github.com/firexy
 
 # Proje dizinine geçin
 cd FynexAI
+
+
+
+
+
